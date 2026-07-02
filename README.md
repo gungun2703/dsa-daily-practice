@@ -1,2 +1,23 @@
-# dsa-daily-practice
-This repository will contain my DSA Practice folders of arrays , strings , recursion , trees , graphs . Will update it regualrly and try my best to be consistent.
+# 🚀 DSA Daily Practice
+
+I'm solving Data Structures & Algorithms problems daily to improve my problem-solving skills.
+
+## Languages
+- Java
+
+## Platforms
+- LeetCode
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+## Goal
+Solve 300+ DSA problems before placements.
+
